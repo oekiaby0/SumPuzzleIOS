@@ -46,6 +46,6 @@ If you encounter any issues or have suggestions for improvements, please [open a
 
 ## License
 
-This SumPuzzle iOS App is licensed under the [GPT License](LICENSE.md). It's based on the Sumplete game available at [sumplete.com](https://sumplete.com/). You are free to use, modify, and distribute the app in accordance with the terms of this license.
+This SumPuzzle iOS App is licensed under the [GPT License](LICENSE). It's based on the Sumplete game available at [sumplete.com](https://sumplete.com/). You are free to use, modify, and distribute the app in accordance with the terms of this license.
 
 Enjoy playing SumPuzzle and challenging your logical thinking skills!
