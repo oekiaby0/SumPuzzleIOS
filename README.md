@@ -2,6 +2,8 @@
 
 Welcome to the SumPuzzle iOS App! This game is inspired by Sumplete, a logic-based number game. In SumPuzzle, you'll solve puzzles by using your logical deduction skills to figure out which numbers to keep (green) and which to delete (red) while ensuring that the sum in each row and column matches its corresponding "sum clue."
 
+<img src="https://raw.githubusercontent.com/oekiaby0/SumPuzzleIOS/main/SumPuzzle%20Screenshot.png" width="300">
+
 ## How to Play
 
 1. **Grid Layout**: You'll start with a grid of cells, each initially in an "unknown" state.
